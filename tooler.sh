@@ -628,7 +628,7 @@ printf "\033[1;31m. \033[0m"
 echo
 git clone https://github.com/BHUTUU/cameraphish.git
 echo
-elif [[ $nane == '18' ]]; then
+elif [[ $name == '18' ]]; then
 echo
 printf "\033[1;31mdownlording. \033[0m"
 sleep 1
